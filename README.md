@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 \
-I'm focused on the intersection of machine learning, remote sensing, and disaster
-\
-👯 I’m looking to collaborate on landslide monitoring + modeling work -- let's connect!\
+I'm focused on the intersection of machine learning, remote sensing, and disaster. I’m looking to collaborate on landslide monitoring + modeling work -- let's connect!\
 \
 📫 How to reach me: relaurax@gmail.com or https://www.linkedin.com/in/rachael-lau/ \
 \
