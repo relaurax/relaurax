@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-My name is Rachael Lau - a bit about me:\
 \
-Machine Learning, Remote Sensing, and Disaster
+I'm focused on the intersection of machine learning, remote sensing, and disaster
 \
 👯 I’m looking to collaborate on landslide monitoring + modeling work -- let's connect!\
 \
