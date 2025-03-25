@@ -3,11 +3,9 @@
 
 My name is Rachael Lau - a bit about me:\
 \
-📕 I'm a 4th year PhD Candidate @ Duke University\
+Machine Learning, Remote Sensing, and Disaster
 \
-🔭 I’m currently working on using and modeling InSAR data\
-\
-👯 I’m looking to collaborate on landslide monitoring + modeling work\
+👯 I’m looking to collaborate on landslide monitoring + modeling work -- let's connect!\
 \
 📫 How to reach me: relaurax@gmail.com or https://www.linkedin.com/in/rachael-lau/ \
 \
