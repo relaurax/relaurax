@@ -5,8 +5,6 @@ I'm focused on the intersection of machine learning, remote sensing, and disaste
 \
 📫 How to reach me: relaurax@gmail.com or https://www.linkedin.com/in/rachael-lau/ \
 \
-😄 Pronouns: she/her/hers\
-\
 ⚡ Fun fact: I love to distance run and my cat is named Remi!
 
 
